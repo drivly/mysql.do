@@ -3,7 +3,7 @@ import { connect } from '@planetscale/database'
 export const api = {
   icon: '🚀',
   name: 'mysql.do',
-  description: 'Cloudflare Worker Template',
+  description: 'MySQL Worker Proxy',
   url: 'https://mysql.do/api',
   type: 'https://apis.do/database',
   endpoints: {
